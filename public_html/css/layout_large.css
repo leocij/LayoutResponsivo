@@ -1,0 +1,22 @@
+
+/* 
+    Created on : 30/06/2017, 20:41:55
+    Author     : leoci
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.layout-responsivo{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    background-color: #666666;
+}
+
+body{
+    background-color: yellow;
+}
