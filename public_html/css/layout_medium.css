@@ -9,14 +9,14 @@
     padding: 0px;
 }
 
+html,body{
+ height:100%;
+}
+
 .layout-responsivo{
     position: relative;
     width: 100%;
     margin: 0 auto;
     height: 100%;
-    background-color: #666666;
-}
-
-body{
     background-color: green;
 }
